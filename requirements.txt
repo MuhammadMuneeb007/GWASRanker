@@ -1,0 +1,11 @@
+beautifulsoup4
+gwaslab
+numpy
+pandas
+polars
+rapidfuzz
+requests
+scikit-learn
+scipy
+statsmodels
+

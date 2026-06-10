@@ -1,0 +1,18 @@
+name: gwasranker
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - beautifulsoup4
+  - numpy
+  - pandas
+  - polars
+  - rapidfuzz
+  - requests
+  - scikit-learn
+  - scipy
+  - statsmodels
+  - pip
+  - pip:
+      - gwaslab
+
