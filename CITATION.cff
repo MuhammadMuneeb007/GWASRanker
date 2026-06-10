@@ -4,5 +4,7 @@ title: "GWASRanker"
 type: software
 version: 0.1.0
 date-released: 2026-06-11
+repository-code: "https://github.com/MuhammadMuneeb007/GWASRanker"
+license: MIT
 authors:
-  - name: "GWASRanker contributors"
+  - name: "Muhammad Muneeb"

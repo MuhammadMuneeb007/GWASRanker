@@ -229,5 +229,4 @@ author and repository URL before publishing the repository.
 
 ## License
 
-No reuse license has been selected yet. Add an appropriate license before
-making the repository public.
+GWASRanker is released under the MIT License. See `LICENSE` for details.
